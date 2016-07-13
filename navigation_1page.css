@@ -1,0 +1,74 @@
+body {
+	background-color: lightblue;
+	font-family: Calibri;
+	text-align: center;
+}
+
+#gora {
+    width: 520px;
+    border: 5px solid gray;
+    margin: auto; 
+}
+
+#fotosy {
+	
+
+}
+
+h1 {
+	color: #404040;
+	font-size: 200px;
+	text-align: center;
+}
+
+h2 {
+	color: #404040;
+	font-size: 30px;
+	text-align: center;
+}
+
+h3 {
+	text-align: center;
+}
+
+pre {
+	font-family: Calibri;
+	font-size: 30px;
+	text-align: center;
+	color: #C77E36;
+}
+
+
+span {
+	font-family: Calibri;
+	font-size: 50px;
+	text-align: center;
+	color: #404040;
+}
+
+h4 {
+	color: #404040;
+	font-size: 20px;
+	text-align: center;
+}
+
+
+span1 {
+	font-family: Calibri;
+	font-size: 30px;
+	text-align: center;
+	color: #404040;
+}
+
+
+.button {
+  padding:5px;
+  background-color:  #F5F5F5;
+  border: 1px solid gray;
+  color: #C77E36;
+  text-decoration:none;
+  font-size: 50px;
+}
+
+
+
